@@ -26,42 +26,13 @@ import 'flag-icons/css/flag-icons.min.css'
 import logo from "./assets/img/Logo-name.png";
 // import iconGlobal from "./assets/img/Icon.svg";
 import heroBg from "./assets/img/sxd-bg.png";
-import iconYoutube from "./assets/img/Icon-youtube.svg";
-import iconInsta from "./assets/img/Icon-insta.svg";
-import iconFace from "./assets/img/Facebook.svg";
-import iconQr from "./assets/img/qr1-1.svg";
-import appStore from "./assets/img/testimonials/appstore.svg";
-import ggplay from "./assets/img/testimonials/gg play.svg";
-import logoFull from "./assets/img/Logo-full.png";
-import tabDot from "./assets/img/tab-dot.png";
-import ttImg from "./assets/img/fortress-1.png"
-import no1 from "./assets/img/no1.png";
-import no2 from "./assets/img/no2.png";
-import no3 from "./assets/img/no3.png";
-import statusBg from "./assets/img/elrodika-05.png";
-import nv12 from "./assets/img/nv-12.png";
-import bgTime from "./assets/img/br-season.jpeg";
-import seasonImg from "./assets/img/season 2025.png";
-import logosword from "./assets/img/TheGuardian_Logo_VIE 3.png"
-import chinhSach from "./assets/img/Chính sách bảo mật.pdf"
-import dieuKhoan from "./assets/img/The Guardians_Điều khoản sử dụng.pdf"
+
 
 import sxdbg1 from "./assets/img/sxd-ab1.png"
 import sxdbg2 from "./assets/img/sxd-ab2.png"
 import sxdbg3 from "./assets/img/sxd-ab3.png"
 import sxdbg4 from "./assets/img/sxd-ab4.png"
-import canonDefault from "./assets/img/character=canon, state=default.png";
-import canonZoom from "./assets/img/character=canon, state=zoom.png";
-import holyDefault from "./assets/img/character=holy, state=default.png";
-import holyZoom from "./assets/img/character=holy, state=zoom.png";
-import assasinDefault from "./assets/img/character=assasin, state=default.png";
-import assasinZoom from "./assets/img/character=assasin, state=zoom.png";
-import warriorDefault from "./assets/img/character=warrior, state=default.png";
-import warriorZoom from "./assets/img/character=warrior, state=zoom.png";
-import mageDefault from "./assets/img/character=mage, state=default.png";
-import mageZoom from "./assets/img/character=mage, state=zoom.png";
-import archerDefault from "./assets/img/character=archer, state=default.png";
-import archerZoom from "./assets/img/character=archer, state=zoom.png";
+
 // danh sách nhân vật
 
 
